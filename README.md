@@ -1,5 +1,14 @@
-## Hi there 👋
+##👋 Hi, I'm Aslınur Kurt
 
+🎓 Industrial Engineering Student at Istanbul Kültür University
+📍 Based in Turkey
+📊 Interested in Data Analysis, Optimization & Process Improvement
+
+🚀 About Me
+
+I am an Industrial Engineering student with a growing interest in solving real-world problems through analytical thinking and data-driven approaches.
+
+I have taken courses in Python programming, Object-Oriented Programming, and AutoCAD, and I am currently focused on improving my technical and analytical skills.
 <!--
 **aslinurkurt/aslinurkurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
